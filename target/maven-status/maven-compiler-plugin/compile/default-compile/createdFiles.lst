@@ -1,0 +1,7 @@
+com/keycloak/auth/provider/user/CustomUser$Builder.class
+com/keycloak/auth/provider/user/CustomUserStorageProviderConstants.class
+com/keycloak/auth/provider/user/CustomUser.class
+com/keycloak/auth/provider/user/CustomUserStorageProviderFactory.class
+com/keycloak/auth/provider/user/DbUtil.class
+com/keycloak/auth/provider/user/CustomUserStorageProvider.class
+com/keycloak/auth/provider/mapper/CustomProtocolMapper.class
